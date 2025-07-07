@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td>DATA</td>
+    <th>DATA</th>
     <th>MAGISTRALE & OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
