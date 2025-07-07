@@ -155,19 +155,13 @@
     <td>50,00€ (gratis per giocatori con Elo Standard &gt; 2299)</td>
     <td>35,00€</td>
   </tr>
-  <tr>
-    <td colspan="3">5,00€ di sconto non cumulabili per i veterani (nati entro il 31.12.1960), le donne e i giocatori nati dopo il 31.12.2006.</td>
-  </tr>
-  <tr>
-    <td colspan="3">5,00€ di sconto ulteriori per i soci del circolo organizzatore.</td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      Si richiede preiscrizione per telefono o compilando l'apposito
-      <a href="https://vesus.org/event/???" target="_blank">modulo</a>
-      su VeSus entro il 22 dicembre.
-    </td>
-  </tr>
+  </table>
+
+- 5,00€ di sconto non cumulabili per i veterani (nati entro il 31.12.1960), le donne e i giocatori nati dopo il 31.12.2006.
+- 5,00€ di sconto ulteriori per i soci del circolo organizzatore.
+- Si richiede preiscrizione per telefono o compilando l'apposito <a href="https://vesus.org/event/???" target="_blank">modulo</a> su VeSus entro il 22 dicembre.
+
+<table>
   <tr>
     <th>Responsabile</th>
     <th>Mobile</th>
