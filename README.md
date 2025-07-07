@@ -1,6 +1,6 @@
 # 37° Festival "Comune di Robecchetto con Induno"
 
-## CALENDARIO DI GIOCO
+### CALENDARIO DI GIOCO
 
 <table>
   <tr>
@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-## RIMBORSI SPESE E ALTRI PREMI
+### RIMBORSI SPESE E ALTRI PREMI
 
 <table>
   <tr>
