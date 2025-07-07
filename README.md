@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td></td>
+    <td>DATA</td>
     <th>MAGISTRALE & OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
@@ -106,7 +106,7 @@
     <td>pacco generi alimentari</td>
   </tr>
   <tr>
-    <th>Premi di fascia non cumulabili</th>
+    <th>PREMI DI FASCIA</th>
     <th>MAGISTRALE</th>
     <th>OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
@@ -134,5 +134,10 @@
     <td></td>
     <td></td>
     <td>coppa alla memoria di Graziella Monzeglio</td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      * non cumulabili
+    </td>
   </tr>
 </table>
