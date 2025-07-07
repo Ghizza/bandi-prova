@@ -65,3 +65,74 @@
     </td>
   </tr>
 </table>
+
+## RIMBORSI SPESE E ALTRI PREMI
+
+<table>
+  <tr>
+    <th>Classifica</th>
+    <th>MAGISTRALE</th>
+    <th>OPEN FIDE A</th>
+    <th>OPEN FIDE B</th>
+  </tr>
+  <tr>
+    <td align="center"><b>1°</b></td>
+    <td>300,00€ + coppa</td>
+    <td>150,00€ + coppa</td>
+    <td>120,00€ + coppa</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2°</b></td>
+    <td>200,00€ + coppa</td>
+    <td>100,00€ + coppa</td>
+    <td>80,00€ + coppa</td>
+  </tr>
+  <tr>
+    <td align="center"><b>3°</b></td>
+    <td>150,00€ + coppa</td>
+    <td>70,00€ + coppa</td>
+    <td>60,00€ + coppa</td>
+  </tr>
+  <tr>
+    <td align="center"><b>4°</b></td>
+    <td>100,00€</td>
+    <td>50,00€</td>
+    <td>40,00€</td>
+  </tr>
+  <tr>
+    <td align="center"><b>5°-6°</b></td>
+    <td>75,00€</td>
+    <td>35,00€</td>
+    <td>pacco generi alimentari</td>
+  </tr>
+  <tr>
+    <th>Premi di fascia non cumulabili</th>
+    <th>MAGISTRALE</th>
+    <th>OPEN FIDE A</th>
+    <th>OPEN FIDE B</th>
+  </tr>
+  <tr>
+    <td align="center"><b>1° &lt;2000</b></td>
+    <td>60,00€</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2°-3° &lt;2000</b></td>
+    <td>50,00€</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><b>1° over 65</b></td>
+    <td>pacco generi alimentari</td>
+    <td>pacco generi alimentari</td>
+    <td>pacco generi alimentari</td>
+  </tr>
+  <tr>
+    <td align="center"><b>1ª donna</b></td>
+    <td></td>
+    <td></td>
+    <td>coppa alla memoria di Graziella Monzeglio</td>
+  </tr>
+</table>
